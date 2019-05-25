@@ -1,0 +1,3 @@
+rootProject.name = 'prj001_albums'
+
+include ':app'
